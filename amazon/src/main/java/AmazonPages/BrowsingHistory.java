@@ -15,6 +15,8 @@ public class BrowsingHistory extends AppDriver{
 
 	public BrowsingHistory() throws Throwable {
 		super();
+		
+		System.out.println("Hello");
 		// TODO Auto-generated constructor stub
 	}
 
